@@ -1,0 +1,98 @@
+/* header start */
+header{
+    background-color: green;
+    padding: 5px 0;
+}
+.logo{
+    width: 20%;
+}
+.c_logo{
+    width: 100%;
+}
+.menu ul li a{
+    color: white !important;
+    margin: 0 10px !important;
+    font-size: 17px;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    color: hotpink !important;
+}
+.menu ul li a:last-child{
+    margin-right: 0 !important;
+}
+/* header end */
+
+/* wow */
+.s_1{
+	min-height: 120px;
+	background-color: gray;
+    color: white;
+}
+.s_5{
+	margin-top: 40px;
+	min-height: 120px;
+	background-color: gray;
+    color: white;
+}
+.s_6{
+	margin-top: 40px;
+	min-height: 120px;
+	background-color: gray;
+    color: white;
+}
+
+/* couter start */
+.c_counter{
+    min-height: 50px;
+}
+/* counter end */
+
+
+/* parallax */
+
+#example {
+    background:url(../1.png)50% 0 no-repeat fixed;
+    background-size: cover;
+    height:600px;
+}
+
+.e_w{
+    color:b#2d3436;
+}
+
+
+/* isotop */
+.grid-item{
+	width: 25%;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.flower{
+	background-color: teal;
+	margin-top: 20px;
+	margin-left: 15px;
+    border-radius: 20px;
+    color: white;
+}
+.bird{
+	background-color:red;
+	margin-top: 20px;
+	margin-left: 15px;
+    border-radius: 20px;
+    color: white;
+}
+.mango{
+	background-color: blue;
+	margin-top: 20px;
+	margin-left: 15px;
+    border-radius: 20px;
+    color: white;
+}
+.car{
+	background-color: yellowgreen;
+	margin-top: 20px;
+	margin-left: 15px;
+    border-radius: 20px;
+    color: white;
+}
